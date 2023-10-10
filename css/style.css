@@ -335,6 +335,12 @@ a:focus {
 .slick-slide:focus, .slick-slide a {
   outline: none;
 }
+.medi{
+  color: #007399;
+  font-size: 2rem;
+  font-weight: bolder;
+  font-style: italic;
+}
 
 @media (max-width: 480px) {
   h2, .h2 {
