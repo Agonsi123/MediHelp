@@ -122,15 +122,15 @@ input[type="email"]:focus, input[type="password"]:focus, input[type="text"]:focu
 }
 
 .btn-main:hover {
-  background: #669900;
-  border-color: #669900;
+  background: #009973;
+  border-color: #009973;
   color: #fff;
 }
 
 .btn-main-2 {
-  background: #669900;
+  background: #009973;
   color: #fff;
-  border-color: #669900;
+  border-color: #009973;
 }
 
 .btn-main-2:hover {
@@ -300,7 +300,7 @@ a {
 }
 
 a:focus, a:hover {
-  color: #669900;
+  color: #009973;
   text-decoration: none;
 }
 
@@ -502,13 +502,13 @@ a:focus {
 }
 
 .text-color-2 {
-  color: #669900;
+  color: #009973;
 }
 
 .divider {
   width: 40px;
   height: 5px;
-  background: #669900;
+  background: #009973;
 }
 
 @media (max-width: 480px) {
@@ -690,7 +690,7 @@ a:focus {
 }
 
 .service i {
-  color: #669900;
+  color: #009973;
 }
 
 .service h4 {
@@ -723,7 +723,7 @@ a:focus {
 }
 
 .department-service li i {
-  color: #669900;
+  color: #009973;
 }
 
 .doctors .btn-group .btn {
@@ -738,7 +738,7 @@ a:focus {
 .doctors .btn-group .btn.active {
   box-shadow: none !important;
   border-color: transparent;
-  background: #669900;
+  background: #009973;
   color: #fff;
 }
 
@@ -750,14 +750,14 @@ a:focus {
 .doctors .btn-group .btn:focus {
   box-shadow: none !important;
   border-color: transparent;
-  background: #669900;
+  background: #009973;
   color: #fff;
 }
 
 .doctors .btn-group .btn:hover {
   box-shadow: none !important;
   border-color: transparent;
-  background: #669900;
+  background: #009973;
   color: #fff;
 }
 
@@ -795,7 +795,7 @@ a:focus {
 
 .doctor-info li i {
   margin-right: 20px;
-  color: #669900;
+  color: #009973;
 }
 
 .read-more {
@@ -948,7 +948,7 @@ a:focus {
 
 .testimonial-block.style-2 i {
   bottom: -20px;
-  color: #669900;
+  color: #009973;
   opacity: .3;
 }
 
@@ -1044,7 +1044,7 @@ a:focus {
   font-size: 50px;
   margin-bottom: 15px;
   display: inline-block;
-  color: #669900;
+  color: #009973;
 }
 
 .blog-item-content h2 {
@@ -1100,7 +1100,7 @@ a:focus {
   color: #007399;
   padding: 40px;
   font-style: italic;
-  border-left: 5px solid #669900;
+  border-left: 5px solid #009973;
   margin: 25px 0px;
 }
 
@@ -1307,7 +1307,7 @@ a:focus {
   bottom: 0px;
   width: 35px;
   height: 3px;
-  background: #669900;
+  background: #009973;
 }
 
 .sidebar-widget.latest-post .media img {
@@ -1420,7 +1420,7 @@ a:focus {
 }
 
 .widget .footer-menu a:hover {
-  color: #669900;
+  color: #009973;
 }
 
 .footer-contact-block span {
@@ -1453,7 +1453,7 @@ a:focus {
 }
 
 .widget-contact h6 i {
-  color: #669900;
+  color: #009973;
 }
 
 .subscribe {
@@ -1475,7 +1475,7 @@ a:focus {
 
 .backtop {
   position: fixed;
-  background: #669900;
+  background: #009973;
   z-index: 9999;
   display: inline-block;
   right: 55px;
